@@ -1,0 +1,11 @@
+{
+    "name": "aezakmi/vbis-projekat-za-ispit",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+      "ext-json": "*"
+    }
+}
